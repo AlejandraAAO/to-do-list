@@ -1,0 +1,19 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+  
+}
+
+.todo-wrapper{
+ margin: 20px auto 20px auto;
+ width: 450px;
+ min-height: 600px;
+ border: 0.5rem dotted grey;
+ padding: 20px;
+ text-align: center;
+ font-family: 'Cabin', sans-serif;
+}
